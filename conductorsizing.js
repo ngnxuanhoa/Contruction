@@ -1,4 +1,3 @@
-<script type="text/javascript">
 function myFunction(form) {
     var x = form.ref.value;
     var c = document.getElementById("ctype");
@@ -1217,4 +1216,3 @@ switch (tem) {
 
    return hs;
 }
-</script>
